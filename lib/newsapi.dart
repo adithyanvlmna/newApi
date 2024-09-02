@@ -119,6 +119,7 @@ class _NewsapiState extends State<Newsapi> {
                               Padding(
                                 padding: const EdgeInsets.all(8.0),
                                 child: Text(data.newGetter[index].auther),
+                                
                               ),
                               Padding(
                                 padding: const EdgeInsets.all(8.0),
